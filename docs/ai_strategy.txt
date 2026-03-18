@@ -1,0 +1,11 @@
+AI Strategy Document
+
+We are integrating Generative AI into our systems to improve productivity and automation.
+
+AI systems should use Retrieval Augmented Generation (RAG) to ensure accurate and up-to-date responses.
+
+Vector databases are used to store embeddings of documents for semantic search.
+
+We use OpenAI APIs and other LLM providers for AI capabilities.
+
+All AI systems must include monitoring, logging, and guardrails to ensure safe usage.

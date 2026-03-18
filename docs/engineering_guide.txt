@@ -1,0 +1,11 @@
+Engineering Guide
+
+Our backend systems are primarily built using Java and Spring Boot.
+
+Microservices architecture is preferred for scalability and flexibility.
+
+We use REST APIs for communication between services.
+
+Monitoring is done using Prometheus and Grafana.
+
+Logs are centralized and analyzed for performance and debugging.

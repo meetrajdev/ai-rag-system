@@ -1,0 +1,11 @@
+Company Handbook
+
+We follow DevOps best practices including CI/CD automation and infrastructure as code.
+
+Our systems are deployed using Docker containers and managed through Kubernetes clusters.
+
+We use AWS, Azure, and GCP for cloud infrastructure.
+
+Security is a top priority. All services must follow zero-trust principles and use encrypted communication.
+
+Employees are encouraged to document their work and follow clean coding practices.
